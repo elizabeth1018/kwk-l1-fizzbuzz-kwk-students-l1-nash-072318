@@ -1,2 +1,2 @@
 
-if number is
+if number is 
