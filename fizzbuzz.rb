@@ -6,3 +6,4 @@ elsif number %5 == 0
   puts "Buzz"
 elsif number %15 == 0
   puts "Fizzbuzz"
+end 
