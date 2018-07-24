@@ -1,3 +1,4 @@
+number= 
 
 if number %3 == 0
   puts "Fizz"
