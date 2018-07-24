@@ -1,4 +1,4 @@
 
-if number = 3
+if number = %3
   puts = "Fizz"
 elsif 
