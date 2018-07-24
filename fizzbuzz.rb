@@ -8,3 +8,4 @@ elsif number %3 == 0
   puts "Fizz"
   
 end 
+end
