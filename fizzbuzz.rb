@@ -7,4 +7,3 @@ elsif number %5 == 0
 elsif number %15 == 0
   puts "Fizzbuzz"
 end 
-end
