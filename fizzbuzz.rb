@@ -1,4 +1,4 @@
-number= 30
+number= 15
 
 if number %3 == 0
   puts "Fizz"
