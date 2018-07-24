@@ -1,4 +1,4 @@
-number= 
+number= 6
 
 if number %15 == 0
   puts "Fizzbuzz"
