@@ -1,2 +1,2 @@
 
-if number is devisible by  
+if number is
